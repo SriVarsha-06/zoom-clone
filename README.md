@@ -6,9 +6,9 @@ A full-stack Zoom Workplace web application built using Next.js, FastAPI, and SQ
 
 ## Live Demo & Deployment
 
-* Frontend App (Vercel): [https://zoom-clone-6hl7l3ehk-srivarshabaliwada-gmailcoms-projects.vercel.app](https://zoom-clone-6hl7l3ehk-srivarshabaliwada-gmailcoms-projects.vercel.app)
-* **Backend API (Render)**: [https://zoom-clone-backend-spf4.onrender.com/docs](https://zoom-clone-backend-spf4.onrender.com/docs)
-* **GitHub Repository**: [https://github.com/SriVarsha-06/zoom-clone](https://github.com/SriVarsha-06/zoom-clone)
+* Frontend App (Vercel): https://zoom-clone-by-varsha.vercel.app/
+* **Backend API (Render)**: https://zoom-clone-backend-spf4.onrender.com/docs
+* **GitHub Repository**: https://github.com/SriVarsha-06/zoom-clone
 
 ---
 
